@@ -1,5 +1,6 @@
 # ROS ignore
 workspace/src/*
+!workspace/src/README.md
 workspace/devel/
 workspace/logs/
 workspace/build/
