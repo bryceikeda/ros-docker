@@ -1,0 +1,23 @@
+# ROS ignore
+workspace/src/*
+workspace/devel/
+workspace/logs/
+workspace/build/
+workspace/bin/
+workspace/lib/
+workspace/msg_gen/
+workspace/srv_gen/
+workspace/msg/*Action.msg
+workspace/msg/*ActionFeedback.msg
+workspace/msg/*ActionGoal.msg
+workspace/msg/*ActionResult.msg
+workspace/msg/*Feedback.msg
+workspace/msg/*Goal.msg
+workspace/msg/*Result.msg
+workspace/msg/_*.py
+workspace/build_isolated/
+workspace/devel_isolated/
+workspace/.catkin_tools/
+
+# Rocker ignore
+rocker_venv/
