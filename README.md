@@ -59,6 +59,6 @@ make start_ros_noetic [Container ID (first four digits)]
 ```
 
 ## Acknowledgements
-[ros-docker-gui](https://github.com/turlucode/ros-docker-gui.git)
-[ruffsl docker implementation](https://github.com/ruffsl/navigation2/blob/main/Dockerfile)
+* [ros-docker-gui](https://github.com/turlucode/ros-docker-gui.git)
+* [ruffsl docker implementation](https://github.com/ruffsl/navigation2/blob/main/Dockerfile)
 
